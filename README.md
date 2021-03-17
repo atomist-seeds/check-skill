@@ -3,12 +3,6 @@
 Sample skill to showcase how to use a skill on Git pushes to validate some repository
 content.
 
- *
- * 
-
-:sparkles: [_**View this skill in the Atomist Skills Catalog**_][atomist-skill]
-to enable this skill on your repositories. :sparkles:
-
 See the [Atomist website][atomist] for general information about Atomist Skills
 and the [Atomist documentation site][atomist-doc] for instructions on how to get
 started using Atomist Skills.
